@@ -1,0 +1,25 @@
+[book]
+authors = ["Study Area CN Team"]
+language = "zh-cn"
+multilingual = false
+src = "src"
+title = "学习电脑 - Study Area CN"
+
+[output.html]
+additional-css = [
+    "theme/css/icons.css",
+    "theme/css/mdui.css",
+    "theme/css/highlight.min.css",
+    "theme/css/page.css",
+    "theme/css/font.css",
+    "theme/font/icons.woff2",
+    "theme/font/noto.otf",
+    "theme/font/sourcecodepro.woff2",
+]
+additional-js = [
+    "theme/js/mdui.global.js",
+    "theme/js/highlight.min.js",
+    "theme/js/mathjax.js",
+    "theme/js/tocrender.js",
+    "theme/js/page.js",
+]

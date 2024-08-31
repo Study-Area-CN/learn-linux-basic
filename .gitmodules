@@ -1,0 +1,3 @@
+[submodule "theme"]
+	path = theme
+	url = https://git.hmtsai.cn/study-area-cn/theme
