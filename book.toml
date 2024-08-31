@@ -3,7 +3,7 @@ authors = ["Study Area CN Team"]
 language = "zh-cn"
 multilingual = false
 src = "src"
-title = "学习电脑 - Study Area CN"
+title = "学习Linux - Study Area CN"
 
 [output.html]
 additional-css = [
