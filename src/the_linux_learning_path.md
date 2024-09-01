@@ -5,7 +5,7 @@
 
 ## 怎么学 Linux？
 
-说白了，Linux 也就是一个在普通不过的[操作系统](../learn_computer_basic/operating_system.md).
+说白了，Linux 也就是一个在普通不过的[操作系统](/computer/operating_system.md).
 要想学好 Linux，就不能害怕 Linux。
 实际上现在的 Linux 已经很人性化了，更何况现在的 KDE 和 GNOME 等桌面环境都已经很完善了。界面也非常好看。比如这张图片就是笔者在撰写这篇文章时的截图。
 

@@ -21,11 +21,11 @@
 1. 0x00 下载ISO
 2. 0x01 以下三种安装方式任选其一
 
-   * [在 VMWare WS 上安装](./install_rocky_linux/install_in_vmware.md)
-   * [在 VirtualBox 安装](./install_rocky_linux/install_in_vbox.md)
-   * [在你的电脑(实体机)安装](./install_rocky_linux/install_in_your_pc.md)
+   * [在 VMWare WS 上安装](./install_in_vmware.md)
+   * [在 VirtualBox 安装](./install_in_vbox.md)
+   * [在你的电脑(实体机)安装](./install_in_your_pc.md)
 
-3. 0x02 [安装 Rocky Linux](./install_rocky_linux/install_rocky_linux.md)
+3. 0x02 [安装 Rocky Linux](./install_rocky_linux.md)
 
 ## 下载ISO
 
@@ -69,7 +69,7 @@ OS 1: Arch Linux x86_64
 OS 2: Windows 11
 ```
 
-都可以流畅在 VirtualBox 运行虚拟机。
+都可以流畅的使用 VirtualBox 运行虚拟机。
 
 我们现在常见的虚拟机软件有以下几款：
 
@@ -84,9 +84,9 @@ OS 2: Windows 11
     优点: 社区支持强大，开源，自定义程度高
     缺点: 新手使用会略微有些难度(不过也很简单)
 
-* **[在 VMWare WS 上安装](./install_rocky_linux/install_in_vmware.md)**
-* **[在 VirtualBox 上安装](./install_rocky_linux/install_in_vbox.md)**
-* **[在你的电脑(实体机)安装](./install_rocky_linux/install_in_your_pc.md)**
+* **[在 VMWare WS 上安装](./install_in_vmware.md)**
+* **[在 VirtualBox 上安装](./install_in_vbox.md)**
+* **[在你的电脑(实体机)安装](./install_in_your_pc.md)**
 
 ---
 > study-area-cn
