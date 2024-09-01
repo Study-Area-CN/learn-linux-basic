@@ -1,16 +1,6 @@
 # 学习 Shell
 
-## 概念
-
-Shell（也称为壳）在计算机中指“为用户提供用户界面”的软件，通常指的是命令行界面的解析器。一般来说，这个词是指操作系统中提供访问内核所提供之服务的程序。Shell也用于泛指所有为用户提供操作界面的程序，也就是程序和用户交互的层面。因此与之相对的是内核（英语：Kernel），内核不提供和用户的交互功能。[1]
-
-但是，在 Linux 中，我们通常所讲的 Shell 是指命令行解释器，它为用户提供了一个向 Linux 内核发送请求以便运行程序的界面系统级程序，用户可以用 Shell 来启动、挂起、停止甚至是编写一些程序来实现自动化的功能。
-
-Shell 也指代一种命令语言，由这种语言编写的脚本称为 Shell Script。
-
-Shell 命令语言的标准为参考 AT&T 的 ksh 和 GNU 计划的 Bourne Again Shell (bash) 制定的 The Open Group Base Specifications Issue 6 中的 [2.Shell Command Language](https://pubs.opengroup.org/onlinepubs/9690949599/utilities/xcu_chap02.html)。
-
-本章我们将学习 Shell 的基本使用。
+在上一章我们简单了解了 Shell，接下来让我们学习 Shell 的使用吧！
 
 ## 快捷键
 
@@ -173,10 +163,6 @@ ls -l $(cat files.txt)
 
 1. 使用 Shell 的输出重定向功能，在主目录中创建一个保存了主目录中所有文件列表的文件，命名为 `files.txt`
 2. 使用 `cat` 读取所有文件的内容。
-
-## 参考
-
-- [Shell - 维基百科，自由的百科全书](https://zh.wikipedia.org/wiki/Shell)
 
 ---
 
