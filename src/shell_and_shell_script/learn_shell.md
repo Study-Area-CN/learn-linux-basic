@@ -1,4 +1,4 @@
-# 学习 Shell。
+# 学习 Shell
 
 ## 概念
 
@@ -177,3 +177,7 @@ ls -l $(cat files.txt)
 ## 参考
 
 - [Shell - 维基百科，自由的百科全书](https://zh.wikipedia.org/wiki/Shell)
+
+---
+
+> study-area-cn

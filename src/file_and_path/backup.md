@@ -77,3 +77,6 @@ sudo rsync -avz /etc /mnt/backup/etc
 
 > `rsync`命令是一个非常强大的命令，它不仅可以进行文件复制，还可以联网进行文件的同步、文件的删除等操作。如果你需要备份大量的文件，那么`rsync`命令是一个非常好的选择。
 
+---
+
+> study-area-cn

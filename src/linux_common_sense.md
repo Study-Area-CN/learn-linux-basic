@@ -159,3 +159,7 @@ sudo poweroff
 ### `man`用户手册
 
 man，是 manual（手册）的意思，你可以通过简单地输入 `man <命令>`来使用。
+
+---
+
+> study-area-cn
