@@ -24,7 +24,7 @@
   - [学习Shell](./shell_and_shell_script/learn_shell.md)
   - [Job]()
   - [Vim编辑器](./shell_and_shell_script/vim_editor.md)
-  - [Shell Script基本语法]()
+  - [Shell Script基本语法](./shell_and_shell_script/shell_script_basic.md)
   - [条件判断语句]()
   - [循环]()
   - [函数]()
